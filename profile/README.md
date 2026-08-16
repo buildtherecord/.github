@@ -7,9 +7,9 @@ for representing yourself, or for handing your lawyer a running start.
 
 | Method | Repo | Demo |
 |---|---|---|
-| Vehicle defects & lemon law | [lemon-case-file](https://github.com/buildtherecord/lemon-case-file) | [demo case file](https://buildtherecord.github.io/lemon-case-file/) |
-| Health-insurance denials | [health-insurance-case-file](https://github.com/buildtherecord/health-insurance-case-file) | [demo appeal file](https://buildtherecord.github.io/health-insurance-case-file/) |
-| Contractor disputes | [contractor-case-file](https://github.com/buildtherecord/contractor-case-file) | [demo case file](https://buildtherecord.github.io/contractor-case-file/) |
+| Vehicle defects & lemon law | [lemon-case-file](https://github.com/buildtherecord/lemon-case-file) | [demo case file](https://buildtherecord.org/lemon-case-file/) |
+| Health-insurance denials | [health-insurance-case-file](https://github.com/buildtherecord/health-insurance-case-file) | [demo appeal file](https://buildtherecord.org/health-insurance-case-file/) |
+| Contractor disputes | [contractor-case-file](https://github.com/buildtherecord/contractor-case-file) | [demo case file](https://buildtherecord.org/contractor-case-file/) |
 
 Each repo carries the method (`METHOD.md`), working-order AI prompts
 (`prompts/`), a jurisdiction signpost layer (`jurisdictions/` — dated, cited,
