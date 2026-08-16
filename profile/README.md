@@ -20,4 +20,10 @@ never a substitute for re-verifying), free evidence-site infrastructure
 outcomes, new domains. Real case documents are never accepted — everything here
 stays 100% synthetic. Not legal advice, ever.
 
-Apache-2.0 · Built as a mitzvah. *For the record.*
+**If you practice law:** an hour of your review is the highest-leverage contribution
+this project can receive — where could a method mislead a layperson in your
+jurisdiction, which prompt should say "stop — counsel now," and what belongs in your
+state's `jurisdictions/` file. Write to **mailbox@buildtherecord.org**. Everything is
+public (Apache-2.0); nothing here creates an attorney-client relationship.
+
+Contact: **mailbox@buildtherecord.org** · Apache-2.0 · Built as a mitzvah. *For the record.*
